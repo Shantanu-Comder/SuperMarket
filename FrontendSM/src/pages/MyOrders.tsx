@@ -1,11 +1,11 @@
 
 
-const myOrders = () => {
+const MyOrders = () => {
   return (
     <div>
-      
+      MyOrders
     </div>
   )
 }
 
-export default myOrders
+export default MyOrders
